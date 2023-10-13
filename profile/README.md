@@ -1,6 +1,6 @@
 # ZestHRM - Human Resource Management Software
 
-![ZestHRM Logo](https://example.com/zesthrm_logo.png)
+![ZestHRM Logo](https://zesthrm.com/zesthrm_logo.png)
 
 ZestHRM is a comprehensive Human Resource Management (HRM) software designed to streamline and enhance HR processes within organizations. It offers a range of features to simplify employee management, payroll, benefits administration, and more.
 
